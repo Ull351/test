@@ -1,2 +1,2 @@
-https://github.com/Ull351/test/blob/main/index.html
+content://com.mi.android.globalFileexplorer.myprovider/external_files/Coding/index.html
 
